@@ -1,0 +1,14 @@
+Games (total): 4
+Players (enter 1 player per line):
+Alice
+Bob
+Cara
+Drew
+Eli
+Finn
+Gina
+Hank
+Iris
+Jace
+Kira
+Liam

@@ -1,0 +1,23 @@
+﻿Games (total): 10
+Players (enter 1 player per line):
+Alice
+Bob
+Cara
+Drew
+Eli
+Finn
+Gina
+Hank
+Iris
+Jace
+Kira
+Liam
+Maya
+Noah
+Omar
+Pia
+Quinn
+Rae
+Seth
+Tara
+

@@ -1,0 +1,128 @@
+cEDH Tournament Pod Assignments
+================================
+
+Game 1
+Pod 1: Noah, Omar, Quinn, Tara
+Pod 2: Alice, Bob, Pia, Seth
+Pod 3: Eli, Iris, Kira, Maya
+Pod 4: Cara, Gina, Jace, Rae
+Pod 5: Drew, Finn, Hank, Liam
+Byes: None
+
+Game 2
+Pod 1: Drew, Eli, Gina, Quinn
+Pod 2: Finn, Jace, Maya, Seth
+Pod 3: Bob, Cara, Kira, Noah
+Pod 4: Alice, Hank, Rae, Tara
+Pod 5: Iris, Liam, Omar, Pia
+Byes: None
+
+Game 3
+Pod 1: Cara, Eli, Omar, Seth
+Pod 2: Kira, Liam, Quinn, Rae
+Pod 3: Alice, Finn, Iris, Noah
+Pod 4: Drew, Jace, Pia, Tara
+Pod 5: Bob, Gina, Hank, Maya
+Byes: None
+
+Game 4
+Pod 1: Gina, Liam, Seth, Tara
+Pod 2: Alice, Drew, Kira, Omar
+Pod 3: Cara, Hank, Iris, Quinn
+Pod 4: Maya, Noah, Pia, Rae
+Pod 5: Bob, Eli, Finn, Jace
+Byes: None
+
+Game 5
+Pod 1: Finn, Gina, Kira, Pia
+Pod 2: Hank, Jace, Noah, Omar
+Pod 3: Drew, Iris, Rae, Seth
+Pod 4: Alice, Cara, Liam, Maya
+Pod 5: Bob, Eli, Quinn, Tara
+Byes: None
+
+Game 6
+Pod 1: Hank, Kira, Pia, Seth
+Pod 2: Bob, Iris, Omar, Rae
+Pod 3: Drew, Eli, Liam, Noah
+Pod 4: Cara, Finn, Maya, Tara
+Pod 5: Alice, Gina, Jace, Quinn
+Byes: None
+
+Game 7
+Pod 1: Bob, Drew, Maya, Omar
+Pod 2: Iris, Jace, Kira, Tara
+Pod 3: Cara, Finn, Pia, Quinn
+Pod 4: Alice, Eli, Hank, Rae
+Pod 5: Gina, Liam, Noah, Seth
+Byes: None
+
+Game 8
+Pod 1: Finn, Omar, Rae, Tara
+Pod 2: Alice, Maya, Quinn, Seth
+Pod 3: Eli, Gina, Iris, Pia
+Pod 4: Bob, Hank, Jace, Liam
+Pod 5: Cara, Drew, Kira, Noah
+Byes: None
+
+Game 9
+Pod 1: Finn, Gina, Kira, Omar
+Pod 2: Bob, Cara, Liam, Rae
+Pod 3: Hank, Iris, Seth, Tara
+Pod 4: Drew, Maya, Pia, Quinn
+Pod 5: Alice, Eli, Jace, Noah
+Byes: None
+
+Game 10
+Pod 1: Alice, Drew, Finn, Iris
+Pod 2: Jace, Kira, Maya, Rae
+Pod 3: Eli, Liam, Pia, Tara
+Pod 4: Cara, Gina, Hank, Omar
+Pod 5: Bob, Noah, Quinn, Seth
+Byes: None
+
+Duplicate Matchups Per Player
+==============================
+Alice: 11
+  Repeats with: Drew (2x), Eli (2x), Finn (2x), Hank (2x), Iris (2x), Jace (2x), Maya (2x), Noah (2x), Quinn (2x), Rae (2x), Seth (2x)
+Bob: 11
+  Repeats with: Cara (2x), Eli (2x), Hank (2x), Jace (2x), Liam (2x), Maya (2x), Noah (2x), Omar (2x), Quinn (2x), Rae (2x), Seth (2x)
+Cara: 11
+  Repeats with: Bob (2x), Finn (2x), Gina (2x), Hank (2x), Kira (2x), Liam (2x), Maya (2x), Noah (2x), Omar (2x), Quinn (2x), Rae (2x)
+Drew: 11
+  Repeats with: Alice (2x), Eli (2x), Finn (2x), Iris (2x), Kira (2x), Liam (2x), Maya (2x), Noah (2x), Omar (2x), Pia (2x), Quinn (2x)
+Eli: 11
+  Repeats with: Alice (2x), Bob (2x), Drew (2x), Gina (2x), Iris (2x), Jace (2x), Liam (2x), Noah (2x), Pia (2x), Quinn (2x), Tara (2x)
+Finn: 11
+  Repeats with: Alice (2x), Cara (2x), Drew (2x), Gina (2x), Iris (2x), Jace (2x), Kira (2x), Maya (2x), Omar (2x), Pia (2x), Tara (2x)
+Gina: 11
+  Repeats with: Cara (2x), Eli (2x), Finn (2x), Hank (2x), Jace (2x), Kira (2x), Liam (2x), Omar (2x), Pia (2x), Quinn (2x), Seth (2x)
+Hank: 11
+  Repeats with: Alice (2x), Bob (2x), Cara (2x), Gina (2x), Iris (2x), Jace (2x), Liam (2x), Omar (2x), Rae (2x), Seth (2x), Tara (2x)
+Iris: 11
+  Repeats with: Alice (2x), Drew (2x), Eli (2x), Finn (2x), Hank (2x), Kira (2x), Omar (2x), Pia (2x), Rae (2x), Seth (2x), Tara (2x)
+Jace: 11
+  Repeats with: Alice (2x), Bob (2x), Eli (2x), Finn (2x), Gina (2x), Hank (2x), Kira (2x), Maya (2x), Noah (2x), Rae (2x), Tara (2x)
+Kira: 11
+  Repeats with: Cara (2x), Drew (2x), Finn (2x), Gina (2x), Iris (2x), Jace (2x), Maya (2x), Noah (2x), Omar (2x), Pia (2x), Rae (2x)
+Liam: 11
+  Repeats with: Bob (2x), Cara (2x), Drew (2x), Eli (2x), Gina (2x), Hank (2x), Noah (2x), Pia (2x), Rae (2x), Seth (2x), Tara (2x)
+Maya: 11
+  Repeats with: Alice (2x), Bob (2x), Cara (2x), Drew (2x), Finn (2x), Jace (2x), Kira (2x), Pia (2x), Quinn (2x), Rae (2x), Seth (2x)
+Noah: 11
+  Repeats with: Alice (2x), Bob (2x), Cara (2x), Drew (2x), Eli (2x), Jace (2x), Kira (2x), Liam (2x), Omar (2x), Quinn (2x), Seth (2x)
+Omar: 11
+  Repeats with: Bob (2x), Cara (2x), Drew (2x), Finn (2x), Gina (2x), Hank (2x), Iris (2x), Kira (2x), Noah (2x), Rae (2x), Tara (2x)
+Pia: 11
+  Repeats with: Drew (2x), Eli (2x), Finn (2x), Gina (2x), Iris (2x), Kira (2x), Liam (2x), Maya (2x), Quinn (2x), Seth (2x), Tara (2x)
+Quinn: 11
+  Repeats with: Alice (2x), Bob (2x), Cara (2x), Drew (2x), Eli (2x), Gina (2x), Maya (2x), Noah (2x), Pia (2x), Seth (2x), Tara (2x)
+Rae: 11
+  Repeats with: Alice (2x), Bob (2x), Cara (2x), Hank (2x), Iris (2x), Jace (2x), Kira (2x), Liam (2x), Maya (2x), Omar (2x), Tara (2x)
+Seth: 11
+  Repeats with: Alice (2x), Bob (2x), Gina (2x), Hank (2x), Iris (2x), Liam (2x), Maya (2x), Noah (2x), Pia (2x), Quinn (2x), Tara (2x)
+Tara: 11
+  Repeats with: Eli (2x), Finn (2x), Hank (2x), Iris (2x), Jace (2x), Liam (2x), Omar (2x), Pia (2x), Quinn (2x), Rae (2x), Seth (2x)
+
+Highest times any two players met: 2
+Target: no pair should exceed 2 if possible.

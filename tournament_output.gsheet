@@ -1,0 +1,56 @@
+cEDH Tournament Pod Assignments
+================================
+
+Game 1
+Pod 1: Finn, Hank, Iris, Liam
+Pod 2: Bob, Gina, Jace, Kira
+Pod 3: Alice, Cara, Drew, Eli
+Byes: None
+
+Game 2
+Pod 1: Cara, Drew, Finn, Kira
+Pod 2: Alice, Bob, Iris, Jace
+Pod 3: Eli, Gina, Hank, Liam
+Byes: None
+
+Game 3
+Pod 1: Alice, Drew, Hank, Jace
+Pod 2: Cara, Finn, Gina, Iris
+Pod 3: Bob, Eli, Kira, Liam
+Byes: None
+
+Game 4
+Pod 1: Alice, Hank, Iris, Kira
+Pod 2: Cara, Gina, Jace, Liam
+Pod 3: Bob, Drew, Eli, Finn
+Byes: None
+
+Duplicate Matchups Per Player
+==============================
+Alice: 4
+  Repeats with: Drew (2x), Hank (2x), Iris (2x), Jace (2x)
+Bob: 3
+  Repeats with: Eli (2x), Jace (2x), Kira (2x)
+Cara: 3
+  Repeats with: Drew (2x), Finn (2x), Gina (2x)
+Drew: 4
+  Repeats with: Alice (2x), Cara (2x), Eli (2x), Finn (2x)
+Eli: 3
+  Repeats with: Bob (2x), Drew (2x), Liam (2x)
+Finn: 3
+  Repeats with: Cara (2x), Drew (2x), Iris (2x)
+Gina: 3
+  Repeats with: Cara (2x), Jace (2x), Liam (2x)
+Hank: 3
+  Repeats with: Alice (2x), Iris (2x), Liam (2x)
+Iris: 3
+  Repeats with: Alice (2x), Finn (2x), Hank (2x)
+Jace: 3
+  Repeats with: Alice (2x), Bob (2x), Gina (2x)
+Kira: 1
+  Repeats with: Bob (2x)
+Liam: 3
+  Repeats with: Eli (2x), Gina (2x), Hank (2x)
+
+Highest times any two players met: 2
+Target: no pair should exceed 2 if possible.
